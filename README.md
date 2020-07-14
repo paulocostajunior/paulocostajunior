@@ -14,10 +14,10 @@
 
 ```javascript
 const aboutMe = {
-  code: ["Javascript", "Typescript", "C#", "MSSQL", "HTML", "CSS"],
-  tools: ["Angular", "JQuery", ".Net Core", "Bootstrap 4"],
-  architecture: ["Domain-driven design"]
-  challenges: ["#100daysofcode(still undergoing)"]
+  "code": ["Javascript", "Typescript", "C#", "MSSQL", "HTML", "CSS"],
+  "tools": ["Angular", "JQuery", ".Net Core", "Bootstrap 4"],
+  "architecture": ["Domain-driven design"],
+  "challenges": ["#100daysofcode (still undergoing)"]
 }
 ```
 
