@@ -3,7 +3,7 @@
 <p>
   <em>System Analysis and Development at <a href="https://www.baraodemaua.br">University of Barão de Mauá</a>
   </br>
-  Full Stack Web Developer at <a href="https://www.mag-it.com.br/">MAGIT</a> 
+  Full Stack Web Developer at <a href="http://www.mag-it.com.br/">MAGIT</a> 
   </em>
 </p>
 
