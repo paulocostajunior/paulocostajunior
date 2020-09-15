@@ -15,10 +15,9 @@
 ```javascript
 const aboutMe = {
   "code": ["Javascript", "Typescript", "C#", "MSSQL", "HTML", "CSS"],
-  "tools": ["Angular", "JQuery", ".Net Core", "Bootstrap 4"],
+  "tools": ["Angular", "React", "JQuery",".Net Core", "Bootstrap 4"],
   "architecture": ["Domain-driven design"],
   "devTools": ["Git", "Visual Studio Code", "Visual Studio", "JIRA"]
-  "challenges": ["#100daysofcode (still undergoing)"]
 }
 ```
 
